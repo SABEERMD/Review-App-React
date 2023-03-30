@@ -42,4 +42,28 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 30vw;
+}
+
+.writen-reviewer {
+  text-align: center;
+}
+
+.reviewer-name {
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.reviewer-company {
+  color: #171f46;
+  font-size: 18px;
+  font-weight: 300px;
+}
+
+.writen-reviewer {
+  font-size: 15px;
+  color: #171f46;
 }
